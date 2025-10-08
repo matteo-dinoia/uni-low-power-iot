@@ -1,0 +1,9 @@
+*.log
+*.map
+obj_sky/
+*.a
+*.sky
+
+.vscode/
+
+/contiki-uwb/
