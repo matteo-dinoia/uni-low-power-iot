@@ -9,5 +9,5 @@ all: $(CONTIKI_PROJECT)
 CONTIKI_WITH_IPV6=0
 CONTIKI_WITH_RIME=1
 
-CONTIKI ?= ../contiki-uwb/contiki
+CONTIKI ?= ../contiki
 include $(CONTIKI)/Makefile.include

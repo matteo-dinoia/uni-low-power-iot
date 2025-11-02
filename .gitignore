@@ -1,9 +1,19 @@
 *.log
 *.map
-obj_sky/
+obj_*/
 *.a
+*/bin
+*.elf
+*.hex
+symbols.c
+symbols.h
 *.sky
+*.zoul
 
 .vscode/
+.venv/
 
-/contiki-uwb/
+/contiki/
+/cloves-client/
+
+
