@@ -1,4 +1,6 @@
 *.log
+*.csv
+
 *.map
 obj_*/
 *.a
@@ -10,6 +12,7 @@ symbols.h
 *.sky
 *.zoul
 
+.DS_Store
 .vscode/
 .venv/
 
