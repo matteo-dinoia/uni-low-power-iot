@@ -4,7 +4,10 @@
 *.map
 obj_*/
 *.a
-*/bin
+*.d
+*.hex
+*.bin
+*.evb1000
 *.elf
 *.hex
 symbols.c
